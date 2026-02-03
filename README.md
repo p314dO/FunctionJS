@@ -1,4 +1,4 @@
-# Get Functions
+# FunctionJS
 
 ![](./images/1.png)
 
